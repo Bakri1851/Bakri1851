@@ -1,16 +1,16 @@
-## Hi there 👋
+## Abubakar Othman (Bakri)
 
-<!--
-**Bakri1851/Bakri1851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Computational Statistics and Machine Learning, UCL.
+Previously MSci Computer Science and Mathematics, Loughborough (1st).
 
-Here are some ideas to get you started:
+Interested in optimisation and training dynamics — how the choice of
+optimiser shapes what a network learns, and whether that survives scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current work**
+- [training-dynamics](https://github.com/Bakri1851/training-dynamics) — does the
+  neural scaling exponent depend on the optimiser? Pre-registered protocols,
+  matched tuning budgets, full search distributions.
+- [eurosat-pytorch](https://github.com/Bakri1851/eurosat-pytorch) — a `Dataset`
+  written from scratch and verified against torchvision's, trained end to end on GPU.
+
+[Portfolio](https://bakri1851.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/abubakarothman1)
